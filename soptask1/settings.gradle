@@ -1,0 +1,2 @@
+rootProject.name='soptask1'
+include ':app'
