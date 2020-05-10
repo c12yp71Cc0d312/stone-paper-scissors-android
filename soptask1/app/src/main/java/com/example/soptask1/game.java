@@ -211,7 +211,7 @@ public class game extends AppCompatActivity {
         if(mode == 1)
             turnText.setText("Choose");
         else if(turn == 1)
-            turnText.setText(name1 + "'s Turn");
+            turnText.setText(name1 + "'s turn");
         else
             turnText.setText(name2 + "'s turn");
 
